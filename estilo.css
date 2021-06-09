@@ -612,5 +612,26 @@ fa fa-whatsapp:hove{
              z-index:1000;
 }
 
+   /*@media queris*/
+   
+@medias (max-width:900px){
+				.para{
+			       height: 700px;
+				}
+				.p1{
+								font-size:60px;
+				}
+				.div1{
+								height: 700px;
+				}
+				.div2{
+								height: 700px;
+				}
+				.div-blanco{
+				height: 2100px;
+			}
+}
+
+
 
 
